@@ -1,2 +1,3 @@
-# Linux-basics
-This is me trying to learn the basics of linux
+# Linux Lab Journey
+
+This repository documents my learning journey in Linux, networking, and system administration.
