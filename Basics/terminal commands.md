@@ -13,7 +13,7 @@
 
 ### here is a example 
 
-mkdir testybr>
+mkdir testy<br>
 touch test/text.txt<br>
 echo "Im learning LINUX" > test/text.txt (you can use the >> if you you want to keep the old text)<br>
 cat test/text.txt<br>
