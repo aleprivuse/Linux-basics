@@ -71,7 +71,7 @@ Then download it.
 
 Open VirtualBox, then click the blue icon (called "New").
 
-Follow the instructions and select your ISO file (the Ubuntu Linux file you downloaded).
+Follow the instructions then put your ISO file into the ISO IMAGE  (the Ubuntu Linux file you downloaded).
 
 ---
 
