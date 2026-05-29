@@ -31,3 +31,5 @@ wait a few minutes
 
 if you passowrd is not working maybe is because the VM is using another keyboard
 
+if you dont see your passowrd  is normal 
+
