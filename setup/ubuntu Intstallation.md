@@ -20,7 +20,7 @@ Then click ubuntu Istallation
 ---
 
 ## login whit the main interface
-  click on your own username pu zour username and passowrd
+  click on your own username put your username and passowrd
   and you should be in
   
 
