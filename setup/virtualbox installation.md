@@ -61,6 +61,8 @@ Ubuntu Linux LTS
 Or use this link:
 https://ubuntu.com/download/server
 
+if it doesnt download automatically when you click download then just click in the new page download now
+
 Then download it.
 
 ---
