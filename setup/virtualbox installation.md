@@ -73,6 +73,8 @@ Open VirtualBox, then click the blue icon (called "New").
 
 Follow the instructions then put your ISO file into the ISO IMAGE  (the Ubuntu Linux file you downloaded).
 
+try to screenshot your credentials so you dont forget those:
+
 ---
 
 ### 5.1 VM Specifications (Recommended)
