@@ -47,6 +47,8 @@ After enabling the feature, restart your PC.
 Go to:
 https://www.virtualbox.org/
 
+go to your left side under <strong>VirtualBox Platform Packages<strong> and select zour version
+
 Then download and install it.
 
 ---
